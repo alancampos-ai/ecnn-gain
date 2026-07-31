@@ -18,8 +18,6 @@ Experiments on DT-MRI datasets evaluate computational feasibility and provide a 
 
 ```bash
 pip install numpy scipy dipy matplotlib pymanopt
-```
-```bash
 pip install torch
 ```
 

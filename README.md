@@ -19,9 +19,6 @@ Experiments on DT-MRI datasets evaluate computational feasibility and provide a 
 ```bash
 pip install numpy scipy dipy matplotlib pymanopt
 ```
-
-For CUDA execution:
-
 ```bash
 pip install torch
 ```
